@@ -1,3 +1,5 @@
+![image](https://github.com/ChloeTseng064/ChloeTseng064/blob/main/githubbanner.jpg)  
+
 Front-End 轉職筆記 
 ===
 
