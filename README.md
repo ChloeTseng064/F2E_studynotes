@@ -16,7 +16,7 @@ Front-End 轉職筆記
 
 HTML ♟
 ---
-* HTML 基本架構  
+* [HTML 基本架構](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/BasicHTML.md)  
 * HTML 語法心智圖  
 * Table
 
