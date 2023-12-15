@@ -7,43 +7,48 @@ Front-End 轉職筆記
 雜談 💬
 ---
 - [先來聊聊準備轉職的想法](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/about%20change%20roles.md)
-- 罐頭版
+- [罐頭版](folder/can.md)
 
-HTML
+切版 👩🏻‍💻
 ---
-- [HTML 基本架構](/0M1qogXTSeOyqbAbq0ZMMQ)
-- [HTML 語法心智圖](/2GMa4zyLQXeOhXHwtzliJQ)
-- [Table](/gR7YAPCEQsG-4qkC5bATrA)
 
-
-CSS 💫
+HTML ♟
 ---
-- [CSS 語法心智圖](/QJzYMLp1TF2fBJQyIOmU9Q)
-- [區塊尺寸計算](/yRlqFqNsR5qlbYp5qN_o4Q)
-- [float](/zK6GVplXSDOPE1wSAt8x0w)
-- [Position_定位](/E8t2lC8vSNWNroQ_2PHVew)
-- [Display](/dvtylEeHSwqe-lQgLU1CZA)
-- [Cards](/jzvoHceQSBqqmyBqlBt6lg)
+* HTML 基本架構  
+* HTML 語法心智圖  
+* Table
 
-JavaScript🕳️
+
+CSS 🎨
+---
+* CSS 語法心智圖
+* 區塊尺寸計算
+* float
+* Position_定位
+* Display
+
+JavaScript 🕳️
 ---
 
 Git :memo:
 ---
-- [Git / GitHub 觀念 ](/e0CqW-vrTGWLaSXxSKR4LA)
-- [Git 幼幼班_開始 Git](/pCUxppstSkmjGbqRrJH8mw)
-- [Git 指令](/gEqzFDNrSfiHe7wHea5QFg)
-- [Pull Request](/0SC2-sMtRQuuX7HdFBuuQA)
+* Git / GitHub 觀念
+* Git 幼幼班_開始 Git
+* Git 指令
+* Pull Request
 - 
 
 Assignment 💯
 ---
-- [HTML 基礎作業 - 靜態網頁](/h1PwWEZQReiE2gfEKiWytQ)
+* 基礎作業 - 靜態網頁
+* 基礎作業 - Table
+* 基礎作業 - RWD
 
 週記
 ---
 > 2023
-- [11/20-11/24](/yHZFN0MPTEGEb6VNj7G-bQ)
-- [11/27-12/01](/-lOqUAClQ3eO-nZbW42lOg)
-- [12/04-12/08](/zERByv7gRoWpTcGeLR4Z-w)
+* 11/20-11/24
+* 11/27-12/01
+* 12/04-12/08
+* 12/11-12/15
 
