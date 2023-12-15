@@ -52,5 +52,5 @@ Assignment 💯
 - [11/20-11/24](folder/wastebook/11.20-11.24.md)
 - [11/27-12/01](folder/wastebook/11.27-12.01.md)
 - [12/04-12/08](folder/wastebook/12.04-12.08.md)
-* 12/11-12/15
+- [12/11-12/15](folder/wastebook/12.11-12.15.md)
 
