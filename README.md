@@ -6,7 +6,7 @@ Front-End 轉職筆記
 
 雜談 💬
 ---
-- [先來聊聊準備轉職的想法](/fwZ8EDkOSleeaAlQ8SM1aA)
+- [先來聊聊準備轉職的想法](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/about%20change%20roles.md)
 - 罐頭版
 
 HTML
