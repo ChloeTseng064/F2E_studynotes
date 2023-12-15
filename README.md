@@ -34,8 +34,8 @@ JavaScript 🕳️
 
 Git :memo:
 ---
-* Git / GitHub 觀念
-* Git 幼幼班_開始 Git
+* [Git / GitHub 觀念](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/Git%26GitHub.md)
+* [Git 幼幼班_開始 Git](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/letsGit.md)
 * Git 指令
 * Pull Request
 - 
