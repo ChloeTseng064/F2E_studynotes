@@ -47,7 +47,24 @@
 * 卡 header 超久…。
 * 速度有提升一點點點點點。
 ```
-![image](pic/flow.png)
+![image](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/pic/flow.png)
 ```
+12/14
+`檔案名稱 20-3.html`
+* 傻眼 nav 用 justify-content: space-between; 對齊超快，不知道自己在忙什麼= =…
+* banner "img"{ width:100% }，又忘記是加在img
+```
+```
+12/15
+`檔案名稱 20-4.html`
+* header 又忘了建 div
+* banner 忘了在 img 上面 w100%...
+* 搞混了 display 與 margin 關於置中時的用法，以及放置的元素。
+* 詢問了 GPT 按鍵背景透明的寫法。
+* 參考 wix 上的範本來切看看，也還是卡在排版不夠熟練，一些美感的東西先暫且不管。
+```
+![image](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/pic/127.0.0.1_5500_87E99A83E683_20-4.html.png)
+```
+12/16
 
 ```
