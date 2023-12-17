@@ -43,7 +43,8 @@ Git :memo:
 Assignment 💯
 ---
 * [基礎作業 - 靜態網頁](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/homework_lesson3.md)
-* 基礎作業 - Table
+* [基礎作業 - Table](https://github.com/ChloeTseng064/F2E_studynotes/blob/main/folder/homework_table.md)
+* 基礎作業 - Form
 * 基礎作業 - RWD
 
 週記
